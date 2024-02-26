@@ -1,5 +1,5 @@
 ## Legado订阅源规则说明
-更新时间：2020-03-06
+更新时间：2024-02-27
 ### 概况
 
   - 1、语法说明
@@ -10,10 +10,10 @@
 
 ------
 
-### 1、语法说明
+### 1、语法说明 (已404)
   + 详见[书源规则](https://alanskycn.gitee.io/teachme/)
 
-### 2、Legado的特殊规则
+### 2、Legado的特殊规则 (已404)
   + 详见[书源规则](https://alanskycn.gitee.io/teachme/)
 
 ### 3、解析流程
@@ -114,3 +114,24 @@
   }
   ```
 
+[
+    {
+    "articleStyle": 0,
+    "customOrder": -24967,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "header": "{\n\"User-Agent\": \"Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; MI 8 Lite Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.2.0.1100 Mobile Safari/537.36\"\n}",
+    "lastUpdateTime": 1675946926480,
+    "loadWithBaseUrl": true,
+    "ruleArticles": "id.content@h3",
+    "ruleLink": "a@href",
+    "ruleTitle": "a@textNodes",
+    "singleUrl": true,
+    "sortUrl": "首页::http://yuedu.miaogongzi.net/gx.html",
+    "sourceGroup": "书源",
+    "sourceIcon": "https://i.loli.net/2021/06/23/S7rvWRZtPIq34MJ.png",
+    "sourceName": "喵公子书源管理",
+    "sourceUrl": "http://yuedu.miaogongzi.net/gx.html"
+}
+]
