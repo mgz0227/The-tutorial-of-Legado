@@ -1,8 +1,8 @@
 ## Legado书源规则说明
 
-> 作者: Celeter
->
-> 更新时间: 2021-07-18
+> 原作者: Celeter
+> 修改作者：喵公子
+> 更新时间: 2024-02-27
 >
 > 描述: 本说明是[legado](https://github.com/gedoor/legado)的规则说明，禁止其他未获得本人授权的第三方软件使用
 
@@ -82,11 +82,7 @@
     - 只能在搜索列表、发现列表、详情页预加载和目录列表中使用
     
     - 必须以 `:` 开头
-    
-    - 教程 [Regex专题](https://github.com/veedrin/horseshoe#2018-10--regex%E4%B8%93%E9%A2%98)
-      
-      [语法](https://github.com/veedrin/horseshoe/blob/master/regex/%E8%AF%AD%E6%B3%95.md)、[方法](https://github.com/veedrin/horseshoe/blob/master/regex/%E6%96%B9%E6%B3%95.md)、[引擎](https://github.com/veedrin/horseshoe/blob/master/regex/%E5%BC%95%E6%93%8E.md)
-      
+    - 原教程已404，静待更新
     - 例子见最后的【书源一】的目录页规则，最前面的`-`表示目录倒序，以及【书源二】的目录页规则
     
   + 正则之OnlyOne
