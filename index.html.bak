@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="description" content="阅读3.0（Legado）教程">
+    <title>阅读3.0(Legado)规则说明</title>
+    <link rel="icon" href="https://gitee.com/alanskycn/yuedu/raw/master/JS/favicon.ico">
+    <!--<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>-->
+    <!--<script src="https://cdn.bootcdn.net/ajax/libs/showdown/1.9.1/showdown.min.js"></script>-->
+    <style>
+        body {
+            padding: 10px;
+            background: white;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <center><h1>阅读3.0(Legado)规则说明</h1></center>
+    <!--<div class="collapse navbar-collapse" id="main-navigation">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown"><a href="javascript:load_README()">书源规则：从入门到入土</a></li>
+            <li class="dropdown"><a href="javascript:load_Subscribe()">订阅源规则：从入门到再入门</a></li>
+            <li class="dropdown"><a href="Rule/source.html" target="_blank">书源规则：从入门到入土</a></li>
+            <li class="dropdown"><a href="Rule/rss.html" target="_blank">订阅源规则：从入门到再入门</a></li>
+            <li class="dropdown"><a href="http://alanskycn.gitee.io/vip/" target="_blank">精品源地址</a></li>
+            <li class="dropdown"><a href="https://github.com/Celeter/web-yuedu3/releases/download/1.0/dist.zip" target="_blank">web-yuedu3下载</a></li>
+                <li class="dropdown"><a href="yuedu://rsssource/importonline?src=https://gitee.com/alanskycn/yuedu/raw/master/JS/RSS/RssImport.json">「阅读3.0」订阅源一键导入</a></li>
+        </ul>
+
+    </div>-->
+    <!--<script>
+        function load_README() {
+            $.get("Rule/BookSource_Instruction.md", function (response, status, xhr) {
+                var converter = new showdown.Converter();
+                $("#content").html(converter.makeHtml(response));
+            });
+        }
+
+        function load_Subscribe() {
+            $.get("Rule/RssSource_Instruction.md", function (response, status, xhr) {
+                var converter = new showdown.Converter();
+                $("#content").html(converter.makeHtml(response));
+            });
+        }
+    </script>-->
+    <div id="content">
+        <center>
+            <ul>
+                <p><a href="Rule/source.html" target="_blank">书源规则：从入门到入土</a></p>
+                <p><a href="Rule/rss.html" target="_blank">订阅源规则：从入门到再入门</a></p>
+                <p><a href="http://alanskycn.gitee.io/vip/" target="_blank">精品源地址</a></p>
+                <p><img src="JS/阅读简介1.jpg" style="width:300px;"></p>
+                <p><img src="JS/阅读简介2.jpg" style="width:300px;"></p>
+                <p><img src="JS/阅读简介3.jpg" style="width:300px;"></p>
+                <p><img src="JS/阅读简介4.jpg" style="width:300px;"></p>
+            </ul>
+        </center>
+        <!--<img src="https://gitee.com/alanskycn/yuedu/raw/master/JS/portfolio8.jpg">-->
+    </div>
+</body>
+
+</html>
